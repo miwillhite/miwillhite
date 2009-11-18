@@ -1,0 +1,2 @@
+sudo gem install textmate
+texmate install miwillhite --source=github
