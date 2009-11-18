@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;% unless ${1:@list}.empty? %&gt;
+	&lt;% for ${2:item} in $1 %&gt;
+		$0
+	&lt;% end %&gt;
+&lt;% end %&gt;</string>
+	<key>name</key>
+	<string>ERB - For Loop</string>
+	<key>scope</key>
+	<string>text.html.ruby</string>
+	<key>tabTrigger</key>
+	<string>for</string>
+	<key>uuid</key>
+	<string>59988638-CAD0-4628-8348-ED81520E73EB</string>
+</dict>
+</plist>

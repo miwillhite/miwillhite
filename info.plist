@@ -2,6 +2,38 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>2ED02C1C-116D-4B7D-95C8-1EBC4034C353</string>
+			<string>A29CA5FC-DA80-4275-8704-91E062D24FBA</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>2ED02C1C-116D-4B7D-95C8-1EBC4034C353</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>65B4AD63-EE17-45BA-B5C7-A1557DBF6F67</string>
+					<string>4B6B0B64-BDA8-4DD3-A546-43E3ADE859DB</string>
+					<string>EEBD94F6-D0D6-4227-A9A8-F075C1E517B5</string>
+					<string>BA83AD54-83C8-4B19-981A-FAF74749AA1E</string>
+				</array>
+				<key>name</key>
+				<string>HTML</string>
+			</dict>
+			<key>A29CA5FC-DA80-4275-8704-91E062D24FBA</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>59988638-CAD0-4628-8348-ED81520E73EB</string>
+				</array>
+				<key>name</key>
+				<string>ERB</string>
+			</dict>
+		</dict>
+	</dict>
 	<key>name</key>
 	<string>MiWillhite</string>
 	<key>uuid</key>
