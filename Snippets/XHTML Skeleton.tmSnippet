@@ -16,7 +16,7 @@
 	&lt;body&gt;
 		$0
 		&lt;div id="footer"&gt;
-			&amp;copy; `date +%Y` $1. All Rights Reserved.
+			&lt;p&gt;&amp;copy; `date +%Y` $1. All Rights Reserved.&lt;/p&gt;
 		&lt;/div&gt;
 	&lt;/body&gt;
 &lt;/html&gt;</string>

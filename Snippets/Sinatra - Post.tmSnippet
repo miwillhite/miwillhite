@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;img src="${1:/images/${2:image_name.jpg}}" alt="${3:Description}" /&gt;$0</string>
+	<string>post '${1:/}' do
+	$0
+end</string>
 	<key>name</key>
-	<string>Image</string>
-	<key>scope</key>
-	<string>text.html.basic</string>
+	<string>Sinatra - Post</string>
 	<key>tabTrigger</key>
-	<string>img</string>
+	<string>post</string>
 	<key>uuid</key>
-	<string>BA83AD54-83C8-4B19-981A-FAF74749AA1E</string>
+	<string>6632C844-145A-4428-8DD1-0CCF23F36F4F</string>
 </dict>
 </plist>

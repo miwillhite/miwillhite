@@ -14,7 +14,8 @@
 	
 	%body
 		$0
-		#footer= "&amp;copy; #{Time.now.strftime('%Y')} $1. All Rights Reserved."</string>
+		#footer
+			p= "&amp;copy; #{Time.now.strftime('%Y')} $1. All Rights Reserved."</string>
 	<key>name</key>
 	<string>HAML  Skeleton</string>
 	<key>scope</key>
