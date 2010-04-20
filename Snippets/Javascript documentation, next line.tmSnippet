@@ -3,12 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&amp;hellip;</string>
+	<string>
+* </string>
 	<key>keyEquivalent</key>
-	<string>~;</string>
+	<string>$</string>
 	<key>name</key>
-	<string>Ellipsis</string>
+	<string>Javascript documentation, next line</string>
+	<key>scope</key>
+	<string>comment.block.js</string>
 	<key>uuid</key>
-	<string>EEBD94F6-D0D6-4227-A9A8-F075C1E517B5</string>
+	<string>77E7F110-1A6A-487E-80FE-94ACDF8ED757</string>
 </dict>
 </plist>

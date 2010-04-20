@@ -3,12 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&amp;hellip;</string>
-	<key>keyEquivalent</key>
-	<string>~;</string>
+	<string>display:-moz-inline-stack;
+display:inline-block;
+*display:inline;
+zoom:1;</string>
 	<key>name</key>
-	<string>Ellipsis</string>
+	<string>Inline Block</string>
+	<key>tabTrigger</key>
+	<string>inlineblock</string>
 	<key>uuid</key>
-	<string>EEBD94F6-D0D6-4227-A9A8-F075C1E517B5</string>
+	<string>98E200D5-EF0C-4CE4-AF06-819FF6B40285</string>
 </dict>
 </plist>

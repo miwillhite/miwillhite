@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;p&gt;
+	&lt;strong&gt;${1:Field Name}&lt;/strong&gt;
+	&lt;%= @params[:${2:field_name}] %&gt;
+&lt;/p&gt;
+$0</string>
+	<key>name</key>
+	<string>Sinatra Email Field</string>
+	<key>tabTrigger</key>
+	<string>field</string>
+	<key>uuid</key>
+	<string>8E638B93-F7B6-4C2F-8AB7-EE47A694C73D</string>
+</dict>
+</plist>

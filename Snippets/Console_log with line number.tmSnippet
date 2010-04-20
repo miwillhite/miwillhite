@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&amp;hellip;</string>
-	<key>keyEquivalent</key>
-	<string>~;</string>
+	<string>console.log('Line $TM_LINE_NUMBER: '+${1:'$2'});</string>
 	<key>name</key>
-	<string>Ellipsis</string>
+	<string>Console.log with line number</string>
+	<key>tabTrigger</key>
+	<string>con</string>
 	<key>uuid</key>
-	<string>EEBD94F6-D0D6-4227-A9A8-F075C1E517B5</string>
+	<string>DFE5583A-6545-4E7D-9957-BA76A94BBC64</string>
 </dict>
 </plist>

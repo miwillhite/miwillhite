@@ -23,7 +23,7 @@
 	<key>name</key>
 	<string>XHTML Skeleton</string>
 	<key>scope</key>
-	<string>text.html.basic</string>
+	<string>text.html</string>
 	<key>tabTrigger</key>
 	<string>xhtml</string>
 	<key>uuid</key>

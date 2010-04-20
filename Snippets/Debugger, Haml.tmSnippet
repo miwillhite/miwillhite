@@ -3,12 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&amp;hellip;</string>
-	<key>keyEquivalent</key>
-	<string>~;</string>
+	<string>
+- debugger
+- 1
+</string>
 	<key>name</key>
-	<string>Ellipsis</string>
+	<string>Debugger, Haml</string>
+	<key>scope</key>
+	<string>text.haml</string>
+	<key>tabTrigger</key>
+	<string>d</string>
 	<key>uuid</key>
-	<string>EEBD94F6-D0D6-4227-A9A8-F075C1E517B5</string>
+	<string>9D2ABDF3-E8B6-49F4-A6A0-E0CCAB8C5DAC</string>
 </dict>
 </plist>

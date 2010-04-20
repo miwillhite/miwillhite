@@ -3,12 +3,18 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&amp;hellip;</string>
-	<key>keyEquivalent</key>
-	<string>~;</string>
+	<string>&lt;html&gt;
+&lt;body&gt;
+
+field$0
+
+&lt;/body&gt;
+&lt;/html&gt;</string>
 	<key>name</key>
-	<string>Ellipsis</string>
+	<string>Sinatra Email Template</string>
+	<key>tabTrigger</key>
+	<string>emailtemp</string>
 	<key>uuid</key>
-	<string>EEBD94F6-D0D6-4227-A9A8-F075C1E517B5</string>
+	<string>1C97EECF-8527-4BFD-9AD5-780215A8C5BF</string>
 </dict>
 </plist>

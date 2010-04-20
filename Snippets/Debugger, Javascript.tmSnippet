@@ -3,12 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&amp;hellip;</string>
-	<key>keyEquivalent</key>
-	<string>~;</string>
+	<string>
+debugger;
+</string>
 	<key>name</key>
-	<string>Ellipsis</string>
+	<string>Debugger, Javascript</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>d</string>
 	<key>uuid</key>
-	<string>EEBD94F6-D0D6-4227-A9A8-F075C1E517B5</string>
+	<string>552AA86F-F29F-4725-88B7-FAB4A0EC75F4</string>
 </dict>
 </plist>

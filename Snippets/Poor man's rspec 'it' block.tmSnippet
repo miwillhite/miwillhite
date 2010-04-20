@@ -3,12 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&amp;hellip;</string>
-	<key>keyEquivalent</key>
-	<string>~;</string>
+	<string>it "$1"
+$0</string>
 	<key>name</key>
-	<string>Ellipsis</string>
+	<string>Poor man's rspec 'it' block</string>
+	<key>tabTrigger</key>
+	<string>it</string>
 	<key>uuid</key>
-	<string>EEBD94F6-D0D6-4227-A9A8-F075C1E517B5</string>
+	<string>8D4A03FC-CA48-4311-AB56-45AD4DDD47AF</string>
 </dict>
 </plist>

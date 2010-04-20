@@ -10,12 +10,12 @@
 		%title ${1:Page Title}
 		%link{ :rel =&gt; 'stylesheet',  :href =&gt; '${2:/stylesheets/styles.css}', :type =&gt; 'text/css', :charset =&gt; 'utf-8' }
 
-		${3:%script{ :src =&gt; '/javascripts/jquery.js', :type =&gt; 'text/javascript', :charset =&gt; 'utf-8' }}
+		${3:%script{ :src =&gt; '/javascripts/jquery.js', :type =&gt; 'text/javascript', :charset =&gt; 'utf-8' } }
 	
 	%body
 		$0
 		#footer
-			p= "&amp;copy; #{Time.now.strftime('%Y')} $1. All Rights Reserved."</string>
+			%p= "&amp;copy; #{Time.now.strftime('%Y')} $1. All Rights Reserved."</string>
 	<key>name</key>
 	<string>HAML  Skeleton</string>
 	<key>scope</key>

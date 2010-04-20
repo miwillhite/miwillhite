@@ -3,12 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&amp;hellip;</string>
-	<key>keyEquivalent</key>
-	<string>~;</string>
+	<string>if necessary</string>
 	<key>name</key>
-	<string>Ellipsis</string>
+	<string>untitled</string>
+	<key>scope</key>
+	<string>comment</string>
+	<key>tabTrigger</key>
+	<string>if n</string>
 	<key>uuid</key>
-	<string>EEBD94F6-D0D6-4227-A9A8-F075C1E517B5</string>
+	<string>5435A7C9-60AC-4601-9A96-932F548F4BF5</string>
 </dict>
 </plist>
