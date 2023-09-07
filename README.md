@@ -6,6 +6,4 @@
 
 I love manipulating data, refactoring old code, and solving difficult problems. Primary skill set: Ruby, Rails, JavaScript, TypeScript, React.
 
-### You won't find much here at the moment, all my efforts have been tied up in private projects!
-
 <div><a href="https://www.linkedin.com/in/matthew-willhite?trk=profile-badge">LinkedIn</a></div>
