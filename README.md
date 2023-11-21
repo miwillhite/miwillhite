@@ -1,6 +1,6 @@
 # Hi, I'm Matt Willhite
 
-### A results-driven Senior Software Engineer looking for a job with impact.
+### A results-driven Senior Software Engineer.
 
 #### I've been working on software that helps people for the last 8 years and can't imagine doing anything else.
 
